@@ -18,7 +18,7 @@ nav ul{
     align-items: center;
     list-style-type: none;
     height: 65px;
-    background-color: black;
+    background-color: blue;
     color: white;
 }
 
@@ -39,21 +39,21 @@ nav ul li{
 
 .container{
     min-height: 72vh;
-    background-color: black;
+    background-color: blue;
     color: white;
    font-family: 'Varela Round', sans-serif;
    display: flex;
    margin: 23px auto;
    width: 70%;
    border-radius: 12px;
-   padding: 34px;
+   padding: 35px;
    background-image: url('bg.jpg');
 }
 
 .bottom{
     position: sticky;
     bottom: 0;
-    height: 130px;
+    height: 125px;
     background-color: black;
     color: white;
     display: flex;
